@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Teena Tuna",
+		"username": "ttuna@gmail.com",
+		"password": "password"
+	},
+	{
+		"name": "Bill Smith",
+		"username": "bill.smith@outlook.com",
+		"password": "secret"
+	},
+	{
+		"name": "Tom Pretty",
+		"username": "tpretty@gmail.com",
+		"password": "FeeFallin"
+	},
+	{
+		"name": "Brain Addams",
+		"username": "brain.addams@outlook.com",
+		"password": "abcd123"
+	}
+]
